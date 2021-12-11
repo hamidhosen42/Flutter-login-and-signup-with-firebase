@@ -18,3 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 #### Firebase link : https://console.firebase.google.com/u/0/project/fir-getx-app-6c993/authentication/users
+
+
+![photo_2021-12-11_08-36-05](https://user-images.githubusercontent.com/68488154/145664385-9b3746fc-0519-4cef-bc15-9b2b4c68efe9.jpg)
+![photo_2021-12-11_08-36-09](https://user-images.githubusercontent.com/68488154/145664387-6a58101d-d132-4e92-94be-164a2d368c17.jpg)
+![photo_2021-12-11_08-36-03](https://user-images.githubusercontent.com/68488154/145664388-ff6f5582-88a1-4f94-bfd7-535d472f668e.jpg)
